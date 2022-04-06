@@ -1,4 +1,4 @@
-Soon I will be looking for a new job, so if you need a talented developer (or know somebody who needs one) then feel free to [contact me](mail@liarprincess.me). I'm thankful for any referrals (many companies also give a bonus to the referent).
+Soon I will be looking for a new job, so if you need a talented developer (or know somebody who needs one) then feel free to [contact me](mailto:mail@liarprincess.me). I'm thankful for any referrals (many companies also give a bonus to the referent).
 
 ### 👔 5 years of experience
 - Mostly in big [ERP systems](https://en.wikipedia.org/wiki/Enterprise_resource_planning) in `C#` and `MSSQL`.
